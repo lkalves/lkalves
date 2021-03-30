@@ -1,7 +1,7 @@
 ## Oi, eu sou Lucas! ✨
 
 ### Sobre mim
-<p>Sou brasileiro e atualmente estou morando em Volta Redonda. Atualmente trabalho na A2B Group como Analista de TI com foco em banco de dados. Sou bacharelando em Sistemas de Informação pela Faculdade Universidade Geraldo Di Biase, localizada no Brasil. Tenho experiência profissional em Suporte de computadores, Helpdesk e Banco de dados. Também tenho conhecimento básico em Python.</p>
+<p>Sou brasileiro e atualmente estou morando em Volta Redonda, Rio de Janeiro, Brasil. Atualmente trabalho na A2B Group como Analista de TI com foco em banco de dados. Sou bacharelando em Sistemas de Informação pela Faculdade Universidade Geraldo Di Biase, localizada no Brasil. Tenho experiência profissional em Suporte de computadores, Helpdesk e Banco de dados. Também tenho conhecimento básico em Python.</p>
 
 ### Habilidades
 
@@ -18,7 +18,7 @@
 <a href="https://www.instagram.com/LKalvex/"><img src="https://img.shields.io/badge/-Lucas Alves-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
 <!--
-**acamilass/acamilass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
