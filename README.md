@@ -14,7 +14,7 @@
 
 ### Redes sociais
 
-<a href="https://lkalves.github.io"><img src="https://img.shields.io/badge/-Site-53A6BE?style=flat-square&logo=headspace&logoColor=white"/></a>
+<a href="https://lucasalvesdesouza.com.br"><img src="https://img.shields.io/badge/-Site-53A6BE?style=flat-square&logo=headspace&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/lucasalves007/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/lucasalves007/"><img src="https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/LKalvex/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
