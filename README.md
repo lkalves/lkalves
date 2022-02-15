@@ -1,7 +1,7 @@
 ## Oi, eu sou Lucas! ✨
 
 ### Sobre mim
-<p>Sou brasileiro e atualmente estou morando em Volta Redonda, Rio de Janeiro, Brasil. No momento trabalho na A2B Group como Analista de TI com foco em Banco de Dados. Sou bacharelando em Sistemas de Informação pela Universidade Geraldo Di Biase, localizada em Volta Redonda. Tenho experiência profissional em Suporte de computadores, Helpdesk e Banco de dados. Também tenho conhecimento básico em Python e atualmente venho aprendendo Kotlin.</p>
+<p>Sou brasileiro e atualmente estou morando em Volta Redonda, Rio de Janeiro, Brasil. No momento trabalho na A2B Group como Analista de TI com foco em Banco de Dados. Sou bacharel em Sistemas de Informação pela Universidade Geraldo Di Biase, localizada em Volta Redonda. Tenho experiência profissional em Suporte de computadores, Helpdesk e Banco de dados. Também tenho conhecimento básico em Python e atualmente venho aprendendo Kotlin.</p>
 
 ### Habilidades
 
