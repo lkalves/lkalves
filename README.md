@@ -1,11 +1,14 @@
 ## Oi, eu sou Lucas! ✨
 
 ### Sobre mim
-<p>Sou brasileiro e atualmente estou morando em Volta Redonda, Rio de Janeiro, Brasil. No momento trabalho na A2B Group como Analista de TI com foco em Banco de Dados. Sou bacharel em Sistemas de Informação pela Universidade Geraldo Di Biase, localizada em Volta Redonda. Tenho experiência profissional em Suporte de computadores, Helpdesk e Banco de dados. Também tenho conhecimento básico em Python e atualmente venho aprendendo Kotlin.</p>
+<p>Sou bacharel em Sistemas de Informação. Tenho experiência em manutenção e suporte de banco de dados, suporte de informática e help desk. Venho desenvolvendo alguns scripts para automação de testes Web com Cypress (Framework de JS) e Selenium com Behave (Python);
+Tenho alguns projetos escritos em Python (deixo aqui o link de um dos meus projetos: https://github.com/lkalves/BOT_Discord) e trabalho diariamente com SQL.
+ </p>
 
 ### Habilidades
 
-![Kotlin](https://img.shields.io/badge/-Kotlin-white?logo=kotlin)&nbsp;
+![Python](https://img.shields.io/badge/-Python-white?logo=python)&nbsp;
+![Cucumber](https://img.shields.io/badge/-Cucumber-white?logo=cucumber)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-white?logo=mysql)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-fcf7ff?style=flat&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-fcf7ff?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
