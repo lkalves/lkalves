@@ -9,10 +9,7 @@ Tenho alguns projetos escritos em Python (deixo aqui o link de um dos meus proje
 
 ![Python](https://img.shields.io/badge/-Python-white?logo=python)&nbsp;
 ![Cucumber](https://img.shields.io/badge/-Cucumber-white?logo=cucumber)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-white?logo=mysql)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-fcf7ff?style=flat&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-fcf7ff?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-fcf7ff?style=flat&logo=javascript)&nbsp;
+![SQL](https://img.shields.io/badge/-MySQL-white?logo=mysql)&nbsp;
 
 
 ### Redes sociais
