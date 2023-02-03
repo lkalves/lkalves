@@ -1,4 +1,4 @@
-## Oi, eu sou Lucas! ✨
+## Olá, me chamo Lucas! 🧑‍💻
 
 ### Sobre mim
 <p>Sou bacharel em Sistemas de Informação. Tenho experiência em manutenção e suporte de banco de dados, suporte de informática e help desk. Venho desenvolvendo alguns scripts para automação de testes Web com Cypress (Framework de JS) e Selenium com Behave (Python);
