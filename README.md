@@ -2,7 +2,7 @@
 
 ### Sobre mim
 <p>Sou bacharel em Sistemas de Informação. Tenho experiência em manutenção e suporte de banco de dados, suporte de informática e help desk. Venho desenvolvendo alguns scripts para automação de testes Web com Cypress (Framework de JS) e Selenium com Behave (Python);
-Tenho alguns projetos escritos em Python (deixo aqui o link de um dos meus projetos: https://github.com/lkalves/BOT_Discord) e trabalho diariamente com SQL.
+Tenho alguns projetos escritos em Python (deixo aqui o link de um dos meus projetos: https://github.com/lkalves/BOT_Discord)
  </p>
 
 ### Habilidades
